@@ -1,3 +1,3 @@
 # Shared files
 
-Shared files for MyFursona, containing its desigm system and other utilities that's shared via submodules.
+Shared files for MyFursona, containing its design system and other utilities shared via Git submodules.
