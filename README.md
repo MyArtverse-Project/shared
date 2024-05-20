@@ -1,3 +1,3 @@
-# Shared files
+#
 
-Shared files for MyFursona, containing its design system and other utilities shared via Git submodules.
+These are shared files for MyArtverse; mainly shared via Git submodules.

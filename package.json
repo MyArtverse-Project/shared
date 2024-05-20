@@ -1,0 +1,8 @@
+{
+  "name": "@myartverse/shared",
+  "private": true,
+  "workspaces": [
+    "prettier",
+    "eslint-config-myartverse"
+  ]
+}

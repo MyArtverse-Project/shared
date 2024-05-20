@@ -1,0 +1,10 @@
+{
+  "name": "@myartverse/eslint-config",
+  "version": "1.0.0",
+  "devDependencies": {
+    "eslint": "^9.3.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 8.5"
+  }
+}
