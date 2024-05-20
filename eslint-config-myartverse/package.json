@@ -1,5 +1,5 @@
 {
-  "name": "@myartverse/eslint-config",
+  "name": "@myartverse/eslint-config-base",
   "description": "An internal ESLint rule for MyArtverse; uses legacy config",
   "version": "0.0.0",
   "devDependencies": {
