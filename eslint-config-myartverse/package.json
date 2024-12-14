@@ -1,0 +1,15 @@
+{
+  "name": "@myartverse/eslint-config-base",
+  "description": "An internal ESLint rule for MyArtverse; uses legacy config",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@stylistic/eslint-plugin": "^2.1.0",
+    "@typescript-eslint/eslint-plugin": "^7.9.0",
+    "@typescript-eslint/parser": "^7.9.0",
+    "eslint": "^9.3.0",
+    "eslint-plugin-import": "^2.29.1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 8.5"
+  }
+}
